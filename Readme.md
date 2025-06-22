@@ -229,18 +229,10 @@ Anda dapat mengubah konfigurasi di file [`app.py`](app.py):
 - Pastikan firewall tidak memblokir koneksi
 - Untuk akses eksternal, ubah host ke `0.0.0.0`
 
-## Kontribusi
-
-1. Fork repository
-2. Buat branch fitur (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-
-## Lisensi
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Kontak
-
-Proyek ini dibuat untuk mata kuliah PPL ADPL Semester 4.
+## Tentang
+Proyek ini dibuat untuk mata kuliah PPL ADPL Semester 4, Kelompok 9.
+Fionella Vernanda P. A. O   (232410103021)
+Aldo Rifki Firmansyah       (232410103025)
+Naufal Rifqi Prasetyo       (232410103055)
+Adelia Damar Cantika        (232410103092)
+Bramudya Melvan Ibrahim     (232410103097)
