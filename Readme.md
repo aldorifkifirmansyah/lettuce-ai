@@ -230,7 +230,7 @@ Anda dapat mengubah konfigurasi di file [`app.py`](app.py):
 - Untuk akses eksternal, ubah host ke `0.0.0.0`
 
 ## Tentang
-Proyek ini dibuat untuk mata kuliah PPL ADPL Semester 4, Kelompok 9.
+Proyek ini dibuat untuk mata kuliah PPL ADPL Semester 4, Kelompok 9:
 Fionella Vernanda P. A. O   (232410103021)
 Aldo Rifki Firmansyah       (232410103025)
 Naufal Rifqi Prasetyo       (232410103055)
