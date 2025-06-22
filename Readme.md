@@ -19,7 +19,7 @@ API untuk deteksi pertumbuhan dan penyakit tanaman selada menggunakan model YOLO
 
 1. **Clone repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aldorifkifirmansyah/lettuce-ai.git
    cd lettuce-ai
    ```
 
